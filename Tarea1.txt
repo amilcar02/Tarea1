@@ -1,0 +1,2 @@
+1. Por qué es importante crear repositorios en un proyecto de software?
+R// Los repositorios alcanzan gran importancia, pues permiten enriquecer la visión de los autores en cuanto a difundir y preservar datos de sus investigaciones y garantizar así el acceso a largo plazo.
